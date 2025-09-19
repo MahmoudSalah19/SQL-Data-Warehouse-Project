@@ -80,7 +80,7 @@ data-warehouse-project/
 │   ├── gold/                           # Scripts for creating analytical models
 │
 ├── tests/                              # Test scripts and quality files
-│
+├── LICENSE                             # License information for the repository
 ├── README.md                           # Project overview and instructions
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
