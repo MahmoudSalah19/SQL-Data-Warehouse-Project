@@ -97,4 +97,4 @@ Hi there! I'm **Mahmoud Salah Naga**. I’m a passionate Data Engineer,eager to 
 
 Let's stay in touch! Feel free to connect with me on LinkedIn:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-salah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mahmoud-salah](https://www.linkedin.com/in/mahmoud-salah-057599370?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
